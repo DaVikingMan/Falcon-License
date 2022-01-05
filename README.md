@@ -1,2 +1,4 @@
-# FPL
-This is the license which I will probably be using in the future for all of my projects. Feel free to use it in your own project
+# FPL(Falcon Project License)
+<br>
+<br>
+Feel free to do whatever you want to do with this license.
