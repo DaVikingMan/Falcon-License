@@ -1,24 +1,35 @@
-Falcon Project License(FPL)
-Copyright DaVikingMan @2021-present
-Creator : DaVikingMan
+Falcon Project License 3.0 (FPL-3.0)
+Copyright (C) DaVikingMan, James Daniel Marrs Ritchey
+Creator: DaVikingMan
+Contributers: James Daniel Marrs Ritchey
 
-The following license is warranty-less and doesn't provide any warranty.
+The following license text is provided "AS IS", without any form of warranty. Use it at your own risk.
 
-If you are using this license or the program, you must follow the following :
+Preamble
 
--You can't republish this program and make it paid
--You can't add telementry if you are making a fork of this project
--You cannot, by any means make this program non-free or non-opensource.If you are redistrubuting
- this program or making a fork of this, you must make the changes open-source. The software should also be free software.
-- This file doesn't need to be included in all of it's forks or copies.
+The Falcon Project License is an opensource software license with ethical restrictions, and copyleft adjacent obligations. The terms of the license follow.
 
-The user is allowed to:
--modify the program
--Share it with others
--Use it commercially
--Use it for personal use
--Rename the license, but is required to include it's original name(FPL) optionally
+Terms and Conditions
 
-If you are using this program, you must keep in mind that:
--The author wouldn't be responsible for any misuse of the following program
--The author wouldn't be responsible for any damage caused to the program
+This program is provided "AS IS", without any form of warranty.
+
+You can't do the following:
+- Offer this program, or derivatives for a price
+- Add telementry to derivatives of the program
+
+You must do the following:
+- Publicly release modifications under an opensource license (such as this license)
+
+You are not required to do any of the following:
+- Include a copy of this license with copies, or derivatives of the program
+
+You are allowed to:
+- Modify the program
+- Share the program
+- Use the program for commerical uses
+- Use the program for personal uses
+- Rename the license, but it is strongly recommended you mention the original name, "Falcon Project License".
+
+You agree that:
+- The authors of the program aren't responsible for any misuse of the program
+- The authors of the program aren't responsible for any damage caused by the program
